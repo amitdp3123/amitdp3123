@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit patil
-- 👀 I’m Good at technologies like Python, Amazon wweb services(AWS), linux os, networking
+- 👀 I’m Good at technologies like Python, Amazon web services(AWS), linux os, networking
 - 🌱 I’m currently learning Devops 
 - 📫 You can reach me on 7795912620/amitdp3123@gmail.com
 
